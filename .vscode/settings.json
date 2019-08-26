@@ -4,6 +4,6 @@
     "git.confirmSync": false,
     "git.enableCommitSigning": true,
     "markdown.styles": [
-        ".vscode/css/markdown-styles.css"
+        ".github/css/markdown-styles.css"
     ]
 }

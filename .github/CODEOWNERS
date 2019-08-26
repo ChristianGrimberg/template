@@ -62,7 +62,7 @@ LICENCE                 @ChristianGrimberg
 # Los cambios en las configuraciones de los editores de código están protegidos por:
 /.vscode/               @ChristianGrimberg
 /.azuredatastudio/      @ChristianGrimberg
-/.vscode/css/           @ChristianGrimberg
+/.github/css/           @ChristianGrimberg
 
 # Los cambios en la documentación del repositorio están protegidos por:
 README.md               @ChristianGrimberg

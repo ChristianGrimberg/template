@@ -2,5 +2,8 @@
     "editor.renderWhitespace": "boundary",
     "git.autofetch": true,
     "git.confirmSync": false,
-    "git.enableCommitSigning": true
+    "git.enableCommitSigning": true,
+    "markdown.styles": [
+        ".github/css/markdown-styles.css"
+    ]
 }

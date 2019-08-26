@@ -6,7 +6,7 @@ CONTRIBUTING            export-ignore
 SUPPORT.md              export-ignore
 *_TEMPLATE.md           export-ignore
 .github/                export-ignore
+.github/css/            export-ignore
 .vscode/                export-ignore
-.vscode/css/            export-ignore
 .azuredatastudio/       export-ignore
 # /css/*                  linguist-vendored

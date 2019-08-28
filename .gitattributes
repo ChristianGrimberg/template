@@ -4,6 +4,7 @@
 CODEOWNERS              export-ignore
 CONTRIBUTING            export-ignore
 SUPPORT.md              export-ignore
+LICENSE			export-ignore
 *_TEMPLATE.md           export-ignore
 .github/                export-ignore
 .github/css/            export-ignore
